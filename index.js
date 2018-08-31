@@ -16,4 +16,5 @@ function sayHiToGrandma(string) {
 }
 function sayHiToGrandma(string) {
   if (string === "HELL0")
+  return "YES INDEED!"
 }
